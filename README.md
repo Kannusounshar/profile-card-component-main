@@ -4,7 +4,7 @@ This is a solution to the Frontend Mentor challenges help you improve your codin
 
 ### Link:
 
-- Live Site URL: [Add live site URL here]https://marvelous-arithmetic-e72d1a.netlify.app
+- Live Site URL:https://marvelous-arithmetic-e72d1a.netlify.app
 
 ### Built with
 
