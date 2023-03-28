@@ -2,10 +2,9 @@
 
 This is a solution to the Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-### Links
+### Link:
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here]https://marvelous-arithmetic-e72d1a.netlify.app
 
 ### Built with
 
